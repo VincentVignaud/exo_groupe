@@ -1,3 +1,11 @@
 Nom : Boudehane
 Prénom : Icham
 Email : mongannethomas@gmail.com
+
+Nom : Vignaud
+Prénom : Vincent
+Email : vicnentvignaud@outlook.fr
+
+Nom : Chereau
+Prénom : Johan
+Email : johanchereau2@gmail.com
