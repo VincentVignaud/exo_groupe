@@ -10,6 +10,10 @@ Nom : Chereau
 Prénom : Johan
 Email : johanchereau2@gmail.com
 
+Nom : Aldaitz
+Prénom : Thomas
+Email : taldaitz@dawan.fr
+
 Nom : Woma
 Prénom : Nizer
 Email : woma.nizer@gmail.com
